@@ -48,12 +48,3 @@ O Jogo Blockchain simula uma rede descentralizada onde os jogadores podem:
 
     Conceitos Blockchain: Implementação didática de tecnologia distribuída
 
-https://img.shields.io/badge/Python-Intermediate-yellow
-https://img.shields.io/badge/MySQL-Database-orange
-https://img.shields.io/badge/PostgreSQL-Database-blue
-https://img.shields.io/badge/Linux-OS-grey
-https://img.shields.io/badge/Web%2520Development-Front--end-green
-https://img.shields.io/badge/Git-Version%2520Control-red
-https://img.shields.io/badge/VS%2520Code-Editor-blue
-https://img.shields.io/badge/Burp%2520Suite-Security-orange
-https://img.shields.io/badge/Hyperledger-Blockchain-purple
